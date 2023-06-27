@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@import 'reset';
+@import 'fonts';
+@import 'header';
+@import 'main';
+@import 'loader';
+
+body {
+  background-color: #000;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
